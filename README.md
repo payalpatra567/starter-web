@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 
 heloo world
 payal patra
+
+###Copyright
+
+Git.Training
