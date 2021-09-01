@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Payal Patra   ppatra9437@gmail.com   payalpatra567
 
 # THANKS
 
-    <name>
+    All my students!
 
 # TECHNOLOGY COLOPHON
 
